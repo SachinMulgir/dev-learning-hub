@@ -1,6 +1,42 @@
 # 🚀 Tech Prep Journey
 
-A structured repository documenting my preparation for software engineering roles — focusing on **Java Programming Language**, **Spring / Spring Boot For Backend Development**, **Data Structures And Algorithms**, and **Rust Programming Language**.
+A well-organized repository documenting my complete preparation for **software development engineer roles**.  
+This repo contains structured notes, cheatsheets, mini-projects, and practice code for all the technologies I’m mastering.
+
+---
+
+## 📚 Learning Tracks Included
+
+### 🟦 **Java Programming**
+- Core concepts (Collections, Streams, Exceptions)
+- OOP principles
+- Design patterns
+- Hands-on Java utilities & practice programs
+
+---
+
+### 🟩 **Spring & Spring Boot**
+- Spring Core & MVC
+- REST API development
+- Spring Data JPA
+- Microservices basics
+- Real-world templates & demo apps
+
+---
+
+### 🧠 **Data Structures & Algorithms (DSA)**
+- Topic-wise notes
+- Pattern-based solutions
+- Java implementations
+- Interview-focused problem sets
+
+---
+
+### 🦀 **Rust Programming (Basics)**
+- Syntax essentials
+- Ownership & Borrowing
+- Modules, Cargo, Packages
+- Beginner-level code snippets
 
 ---
 
