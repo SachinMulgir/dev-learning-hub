@@ -1,6 +1,10 @@
 # 🚀 Tech Prep Journey
 
-A structured repository documenting my preparation for software engineering roles — focusing on **Java**, **Spring Boot**, **DSA**, and **Rust**.
+A structured repository documenting my preparation for software engineering roles — focusing on 
+1. Java Programming
+2. Spring Boot
+3. DSA
+4. Rust Basics
 
 ---
 
