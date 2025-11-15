@@ -1,0 +1,10 @@
+#ignore build folders everywhere:
+target/
+build/
+out/
+
+#ignore .log files:
+**/*.log
+**/*.exe
+**/*.pdb
+**/Cargo.lock
