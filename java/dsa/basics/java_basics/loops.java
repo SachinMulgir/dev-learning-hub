@@ -1,4 +1,4 @@
-package DSA.java_basics;
+package java.dsa.basics.java_basics;
 
 public class loops {
     public static void main(String[] args) {

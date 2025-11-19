@@ -1,7 +1,7 @@
 class checkArraySortedRotated {
     public static void main(String[] args) {
         int[] arr = {3,4,5,1,2};
-        check(arr);       
+        check(arr);
     }
     public static boolean check(int[] nums) {
         for (int i = 0; i < nums.length; i++) {

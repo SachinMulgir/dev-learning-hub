@@ -1,4 +1,4 @@
-package DSA.Integers;
+package java.dsa.basics.Integers;
 
 import java.util.Scanner;
 
