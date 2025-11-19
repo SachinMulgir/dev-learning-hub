@@ -1,4 +1,6 @@
-fn options() {
+pub fn options() {
+    println!("\n O P T I O N S \n");
+
     // Option <T> is a prelude in rust and can be used exactly same as a enum:
 
     let op_val = Some(1);                     // here the compiler auto infers the value to be a i32 as we are passing numeric value inside some()

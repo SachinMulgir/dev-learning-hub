@@ -4,6 +4,8 @@ use crate::enums::enums::*;
 use crate::enums::structs::IP;
 
 pub fn enums() {
+    println!("\n E N U M S \n");
+
     // 1. usage of enums : routing using plain definition of IP address.
     manual_defn();
 
